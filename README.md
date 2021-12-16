@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @x86-root
-- 👀 I’m interested in Linux-Kernel, AI, End user applications.
+- 👋 Hi, I’m @Yashraj Shinde
+- 👀 I’m interested in Linux-Kernel, AI||ML, End user applications.
 - 🌱 I’m currently learning Linux-Kernel, Electronics.
 - 💞️ I’m looking to collaborate on Linux-Kernel, LMMS, Blender.
 - 📫 How to reach me - 
