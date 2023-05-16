@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Yashraj Shinde
 - 👀 I’m interested in Embedded, Linux-Kernel, AI || ML, End user applications.
-- 🌱 I’m currently learning Linux-Kernel, Electronics.
+- 🌱 I’m currently learning Linux-Kernel, Electronics, avr.
 - 💞️ I’m looking to collaborate on Linux-Kernel, LMMS, Blender.
 - 📫 How to reach me - 
--   Instagram - @yashrajshinde466
--   G-mail - yash909678@gmail.com
+-   Instagram - @x___yssh
+-   G-mail - yssh466@gmail.com
+
+
