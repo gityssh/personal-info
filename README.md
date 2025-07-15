@@ -1,9 +1,9 @@
 - 👋 Hi, I’m yash,
 - 👀 I’m interested in Embedded devices, Electronics, Linux-Kernel, End user applications in qt-cpp.
-- 🌱 I’m currently working with Electronics, avr, C++.
-- 💞️ I’m looking to collaborate in qt framework.
+- 🌱 I’m currently working with Electronics, ESP, AVR, C, C++.
+- 💞️ I’m looking to collaborate in qt framework, linux kernal and KDE.
 - Currently building a singnal generator which works on a secret basic electronics components.
-- And also working on a secret/unique Qt-Cpp software.
+- And also working on a secret/unique Qt-cpp software.
 - I am working on my project since last 3 years learning-building-planning and I am going to launch a MVP soon, need a co-founder and a part-time job remote for me.
    
 📫 How to reach me ->
